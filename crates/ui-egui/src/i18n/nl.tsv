@@ -4248,6 +4248,7 @@ curves	Smooth	Vloeiend maken
 
 # Palette grid (Color Table / Indexed Color Custom…)
 	Set Transparent	Als transparant instellen
+	{count} transparent pixels were made opaque	{count} transparante pixels werden ondoorzichtig
 	Clear Transparency	Transparantie opheffen
 	Color Picker (First Color)	Kleurkiezer (eerste kleur)
 	Color Picker (Last Color)	Kleurkiezer (laatste kleur)

@@ -3510,6 +3510,7 @@ curves	Smooth	Haluskan
 
 # Palette grid (Color Table / Indexed Color Custom…)
 	Set Transparent	Jadikan Transparan
+	{count} transparent pixels were made opaque	{count} piksel transparan menjadi tidak transparan
 	Clear Transparency	Hapus Transparansi
 	Color Picker (First Color)	Pemilih Warna (Warna Pertama)
 	Color Picker (Last Color)	Pemilih Warna (Warna Terakhir)

@@ -4402,6 +4402,7 @@ cameraRaw	Yellow	Sárga
 
 # Palette grid (Color Table / Indexed Color Custom…)
 	Set Transparent	Átlátszóvá állítás
+	{count} transparent pixels were made opaque	{count} átlátszó pixel lett átlátszatlan
 	Clear Transparency	Átlátszóság törlése
 	Color Picker (First Color)	Színválasztó (első szín)
 	Color Picker (Last Color)	Színválasztó (utolsó szín)

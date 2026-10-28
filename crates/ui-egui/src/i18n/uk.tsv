@@ -4201,6 +4201,7 @@ curves	Smooth	Згладити
 
 # Palette grid (Color Table / Indexed Color Custom…)
 	Set Transparent	Зробити прозорим
+	{count} transparent pixels were made opaque	{count} прозорких пікселів стали непрозорими
 	Clear Transparency	Прибрати прозорість
 	Color Picker (First Color)	Вибір кольору (перший колір)
 	Color Picker (Last Color)	Вибір кольору (останній колір)

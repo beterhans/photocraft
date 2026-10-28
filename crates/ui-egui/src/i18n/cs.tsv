@@ -4238,6 +4238,7 @@ cameraRaw	Dehaze	Odstranění oparu
 
 # Palette grid (Color Table / Indexed Color Custom…)
 	Set Transparent	Nastavit jako průhledné
+	{count} transparent pixels were made opaque	{count} transparentních pixelů bylo zneprůhledněno
 	Clear Transparency	Zrušit průhlednost
 	Color Picker (First Color)	Výběr barvy (první barva)
 	Color Picker (Last Color)	Výběr barvy (poslední barva)
